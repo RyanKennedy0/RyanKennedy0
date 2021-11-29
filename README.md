@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RyanKennedy0
+- 🌱 I’m currently studying BSc (Hons) Software Development at university
+- 📫 Reach me via message :)
