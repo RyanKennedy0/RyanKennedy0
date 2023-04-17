@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @RyanKennedy0
+- 👋 Hi, I’m Ryan Kennedy
 - 🌱 I’m currently studying BSc (Hons) Software Development at university
 - 📫 Reach me via message :)
